@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Surfing
+2. Coding
+3. Technology
